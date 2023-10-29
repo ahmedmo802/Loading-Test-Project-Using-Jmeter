@@ -1,4 +1,4 @@
-# Loading-Test-Project-Using-Jmeter
+# Performance-Test-Project-Using-Jmeter
 Here i'm testing the load of an online booking webiste.
 Jmeter is used.
 Parametrization mathematical process are applied.
